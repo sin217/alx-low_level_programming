@@ -1,6 +1,6 @@
 #!/bin/bash
 #include <studio>
-/*
+gcc /*
 *main - Entry point
 *Return: Always 0 (sucess)
 */
