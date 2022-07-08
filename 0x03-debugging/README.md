@@ -1,1 +1,1 @@
-this is a readme for debugging task
+this readme is for debugging
